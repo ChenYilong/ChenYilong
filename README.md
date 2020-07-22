@@ -9,3 +9,5 @@
 
 📫 如果你想聊聊，可以给我[发邮件](mailto:luohanchenyilong@gmail.com)，也可以直接 [Twitter DM](https://twitter.com/iOSChenYilong)，另外[其他联系我的途径]( https://github.com/ChenYilong/iOSBlog/issues/21 "") 。
 
+<p align="center"><a href="https://github.com/iteatimeteam"><img src="https://i.loli.net/2020/07/22/kvHfFaeRzyE5hsC.gif"></a></p>
+
