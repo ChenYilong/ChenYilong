@@ -3,7 +3,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ChenYilong&title_color=00FFBD&show_icons=true&icon_color=00FFBD&text_color=00FFBD&bg_color=01033F&hide_title=false" />
 
-😄 [EN]I'm @ChenYilong, living in Beijing, a budding programmer who knows a bit about Objective-C, Swift, and Java and has written apps and frameworks.</br>
+😄 [EN]I'm @ChenYilong, living in Beijing, a programmer who knows a bit about Objective-C, Swift, and Java and has written apps and frameworks.</br>
 😄 [CN]你好~ 我是 @ChenYilong ，生活在北京，一个略懂Objective-C、 Swift 、Java的编程萌新，写过 app 和 framework。</br>
 👯 [EN]I'm currently writing some Swift, flutter, and Java code in my spare time at [iTeaTime(源码派)](https://github.com/iteatimeteam). Welcome to join the group.</br>
 👯 [CN]目前业余时间在 [iTeaTime(源码派)](https://github.com/iteatimeteam) 写一些 Swift 、flutter、Java代码。欢迎加入小组。</br>
